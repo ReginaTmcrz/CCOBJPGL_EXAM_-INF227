@@ -14,14 +14,12 @@ public class App {
 
         Tourist me = new Me();
 
-
         boracay.accept(me);
         palawan.accept(me);
         siargao.accept(me);
         elyu.accept(me);
         cebu.accept(me);
         bohol.accept(me);
-
 
         
     }
